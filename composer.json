@@ -1,0 +1,8 @@
+{
+    "require": {
+        "chriskacerguis/codeigniter-restserver": "^3.1",
+        "phpmailer/phpmailer": "^6.1",
+        "getresponse/sdk-php": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
